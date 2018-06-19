@@ -1,0 +1,18 @@
+{
+  "name": "rthood/motd",
+  "version": "1.0.0",
+  "author": "rthood",
+  "summary": "Test my ability to version control code in puppet",
+  "license": "Apache-2.0",
+  "source": "my puppet master",
+  "project_page": "to hell",
+  "issues_url": "where the sun don't shine",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
