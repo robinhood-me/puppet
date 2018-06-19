@@ -45,5 +45,6 @@
 class motd {
   file { '/etc/motd':
     ensure  => present,
-    ontent => "Welcome\n"
+    content => "Welcome\n",
+  }
 }
